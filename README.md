@@ -1,6 +1,7 @@
 # Tarea-enumeradores
 # Mi información
 Nombre: Ancell Elianny Araujo Valdez
+
 Matrícula: 2025-0654
 
 # Mi definición de enum
