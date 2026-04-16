@@ -1,10 +1,10 @@
 # Tarea-enumeradores
-
-# Nombre: Ancell Elianny Araujo Valdez
-# Matrícula: 2025-0654
+# Mi información
+Nombre: Ancell Elianny Araujo Valdez
+Matrícula: 2025-0654
 
 # Mi definición de enum
-Un enum básicamente es una forma de tener un grupo de opciones ya definidas, como una lista cerrada. En vez de estar usando números o palabras sueltas o al azar, uno defines esas opciones con nombres claros.
+Un enum básicamente es una forma de tener un grupo de opciones ya definidas, como una lista cerrada. En vez de estar usando números o palabras sueltas o al azar, uno define esas opciones con nombres claros.
 
 En este caso lo usé para los estados de las solicitudes. Así en vez de escribir cualquier cosa, el programa solo maneja opciones como Pendiente, EnProceso, Completada y Cancelada.
 Eso ayuda bastante porque evita errores al escribir, hace el código más fácil de entender y también obliga a que todo se mantenga ordenado.
